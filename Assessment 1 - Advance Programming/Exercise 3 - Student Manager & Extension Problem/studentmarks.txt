@@ -1,0 +1,6 @@
+5
+8439,Jake Hobbs,10,11,10,43
+7321,Fred Smith,15,18,20,85
+1000,Jo Huckleberry,20,20,20,100
+6543,Emily Adams,12,15,10,35
+8877,Michael Brown,14,16,18,70
